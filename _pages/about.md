@@ -70,7 +70,6 @@ redirect_from:
 - 2022 栋梁计划挑战性任务I最佳团队
 - 2021 中美青年创客大赛省级二等奖
 - 2020 全国大学生生物医学工程创新设计竞赛校级三等奖 
-...
   
 ---
 
@@ -85,33 +84,20 @@ redirect_from:
 ---
 
 
-## 技能与工具
+### 仿真与模拟软件  
+**Lumerical** | **COMSOL Multiphysics** | **FDTD Solutions** | **MODE Solutions**
 
-### 仿真与模拟软件
-- **Lumerical**
-- **COMSOL Multiphysics**
-- **FDTD Solutions**
-- **MODE Solutions**
+### 设计与制图工具  
+**KLayout** | **Nazca Design** | **AutoCAD** | **GDSII 格式处理**
 
-### 设计与制图工具
-- **KLayout**
-- **Nazca Design**
-- **AutoCAD**
-- **GDSII 格式处理**
+### 编程与数据分析  
+**Python** | **MATLAB** | **Bash**
 
-### 编程与数据分析
-- **Python**
-- **MATLAB**
-- **Bash**
-
-### 其他技能
-- **Git / GitHub**
-- **LaTeX**
-- **Linux**
-- **Origin**
-- **JMP**
+### 其他技能  
+**Git / GitHub** | **LaTeX** | **Linux** | **Origin** | **JMP**
 
 ---
+
 
 ## 联系我
 
