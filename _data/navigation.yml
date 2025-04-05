@@ -14,7 +14,7 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Friends"
     url: /teaching/    
     
   - title: "Portfolio"
@@ -25,9 +25,6 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "朋友"
-    url: /friends/
     
   - title: "Guide"
     url: /markdown/
