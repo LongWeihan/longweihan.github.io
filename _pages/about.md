@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# 个人主页
 
 欢迎访问我的主页！我是电子科技大学电子科学与技术专业的研究生，目前师从毕磊教授，主要从事硅光器件设计与集成光子学研究。借助林为干科研重点班、栋梁计划产业人才培养计划的锻炼，我致力于推动光子集成电路（PIC）的前沿技术发展，探索高效率、低功耗的光电子器件解决方案。
 
@@ -53,34 +52,6 @@ redirect_from:
 
 ---
 
-## 技能与工具
-
-### 仿真与模拟软件
-- **Lumerical**
-- **COMSOL Multiphysics**
-- **FDTD Solutions**
-- **MODE Solutions**
-
-### 设计与制图工具
-- **KLayout**
-- **Nazca Design**
-- **AutoCAD**
-- **GDSII 格式处理**
-
-### 编程与数据分析
-- **Python**
-- **MATLAB**
-- **Bash**
-
-### 其他技能
-- **Git / GitHub**
-- **LaTeX**
-- **Linux**
-- **Origin**
-- **JMP**
-
----
-
 ## 获奖与成果
 
 ### 特别荣誉
@@ -110,6 +81,35 @@ redirect_from:
 
 - **重点培养计划**  
   作为林为干科研重点班、栋梁计划产业人才培养计划的成员，我不断拓宽学术视野，并积极参与跨学科协作项目，为未来科技创新奠定坚实基础。
+
+---
+
+
+## 技能与工具
+
+### 仿真与模拟软件
+- **Lumerical**
+- **COMSOL Multiphysics**
+- **FDTD Solutions**
+- **MODE Solutions**
+
+### 设计与制图工具
+- **KLayout**
+- **Nazca Design**
+- **AutoCAD**
+- **GDSII 格式处理**
+
+### 编程与数据分析
+- **Python**
+- **MATLAB**
+- **Bash**
+
+### 其他技能
+- **Git / GitHub**
+- **LaTeX**
+- **Linux**
+- **Origin**
+- **JMP**
 
 ---
 
