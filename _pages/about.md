@@ -38,8 +38,7 @@ redirect_from:
 
 ### 光束合成与相控技术研究  
 *项目周期：2022年3月至2022年11月*  
-在国家重点实验室团队的支持下，我参与了基于拓扑保护的光束合成技术（TEBC）项目。该项目采用 YIG 光子晶体器件，有效缩小了器件尺寸并降低了设计复杂度，在 9.1–9.3 GHz 频段内成功实现了 3×1 Y 型合束器的高效仿真与测试。项目中，我主要负责器件几何结构的加工与实验验证。相关成果已发表在 *Laser & Photonics Reviews* 上，题为 *Experimental Realization of Highly Efficient Beam Combination and Steering via Topological Multimode*。
-成果发表在Experimental Realization of Highly Efficient Beam Combination and Steering via Topological Multimode，Laser & Photonics Reviews。
+在国家重点实验室团队的支持下，我参与了基于拓扑保护的光束合成技术（TEBC）项目。该项目采用 YIG 光子晶体器件，有效缩小了器件尺寸并降低了设计复杂度，在 9.1–9.3 GHz 频段内成功实现了 3×1 Y 型合束器的高效仿真与测试。项目中，我主要负责器件几何结构的加工与实验验证。相关成果发表在Experimental Realization of Highly Efficient Beam Combination and Steering via Topological Multimode，Laser & Photonics Reviews。
 
 ### 跨学科创新项目  
 本科期间，我参与了多个跨学科项目，例如：
