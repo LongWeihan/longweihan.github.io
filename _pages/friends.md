@@ -4,7 +4,7 @@ title: "朋友"
 permalink: /friends/
 author_profile: true
 redirect_from:
-  - /friends
+  - /resume
 ---
 
 ## 👨‍💻 友情链接 / Friends
