@@ -1,9 +1,13 @@
 ---
 layout: archive
 title: "CV"
-permalink: /CV/
+permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 # Weihan Long
 
 **Location:** Chengdu, China 611731  
