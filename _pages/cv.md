@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "CV"
+permalink: /CV/
+author_profile: true
+---
 # Weihan Long
 
 **Location:** Chengdu, China 611731  
