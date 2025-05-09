@@ -22,9 +22,11 @@ I completed my Bachelor's degree in Electronic Science and Technology at UESTC (
 ### University of Electronic Science and Technology of China, UESTC
 
 * **MPhil in Electronic Science and Technology (A+)** Expected June 2027
+  
   Research Direction: Silicon Photonics Device Design and Integrated Photonics
 
 * **Bachelor of Engineering in Electronic Science and Technology (A+)** 2024
+  
   GPA: 3.82/4.0
   Honors Bachelor's Degree (TOP 2), Excellent Graduate
 
