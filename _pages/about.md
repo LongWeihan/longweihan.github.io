@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am an MPhil student in Electronic Science and Technology at the University of Electronic Science and Technology of China (UESTC), currently supervised by Professor Lei Bi at the **[Lei Bi Group](http://bileigroup.com/)**. My primary focus is on Silicon Photonics Device Design and Integrated Photonics Research. Leveraging the training from programs like the Lin Weigan Key Research Class and the Dongliang Program for Industry Talent Cultivation, I am committed to advancing the frontier technologies of Photonic Integrated Circuits (PICs) and exploring solutions for high-efficiency, low-power optoelectronic devices.
+Welcome to my homepage! I am an MPhil student in Electronic Science and Technology at the University of Electronic Science and Technology of China (UESTC), currently supervised by Professor Lei Bi at the [Lei Bi Group](http://bileigroup.com/). My primary focus is on Silicon Photonics Device Design and Integrated Photonics Research. Leveraging the training from programs like the Lin Weigan Key Research Class and the Dongliang Program for Industry Talent Cultivation, I am committed to advancing the frontier technologies of Photonic Integrated Circuits (PICs) and exploring solutions for high-efficiency, low-power optoelectronic devices.
 
 ---
 
