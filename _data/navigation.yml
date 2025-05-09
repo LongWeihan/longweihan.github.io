@@ -1,30 +1,17 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
-
 main:
+  - title: "Chinese" # Or "英文"
+    url: "https://longweihan.github.io/cn-site"
   - title: "Publications"
     url: /publications/
-
   - title: "Talks"
-    url: /talks/    
-
+    url: /talks/
   - title: "Friends"
-    url: /friends/    
-    
-  - title: "Portfolio"
+    url: /friends/
+  - title: "Portfolio" # 请特别检查这一行和它上面的缩进
     url: /portfolio/
-        
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV2"
+  - title: "CV1"
     url: /cv/
-    
   - title: "Guide"
     url: /markdown/
