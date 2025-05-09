@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Long Weihan Homepage"
+title                    : "Weihan Long Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "LongWeihan/longweihan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Long Weihan"
+  name             : "Weihan Long"
   pronouns         : # example: "she/her"  
   bio              : "Silicon Photonics Device Design and Integrated Photonics Research"
   location         : "Chengdu, China"
