@@ -1,17 +1,18 @@
 main:
   - title: "Chinese" # Or "英文"
     url: "https://longweihan.github.io/cn-site"
-  - title: "Publications"
-    url: /publications/
-  - title: "Talks"
-    url: /talks/
+#  - title: "Publications"
+#    url: /publications/
+#  - title: "Talks"
+#    url: /talks/
   - title: "Friends"
     url: /friends/
-  - title: "Portfolio" # 请特别检查这一行和它上面的缩进
-    url: /portfolio/
-  - title: "Blog Posts"
-    url: /year-archive/
-  - title: "CV1"
-    url: /cv/
-  - title: "Guide"
+#  - title: "Portfolio" # 请特别检查这一行和它上面的缩进
+#    url: /portfolio/
+#  - title: "Blog Posts"
+#    url: /year-archive/
+  - title: "CV"
+    url: /files/longweihan_cv.pdf # <-- 将“你的简历文件名.pdf”替换为你实际的 PDF 文件名
+    target: _blank # 让链接在新标签页中打开
+#  - title: "Guide"
     url: /markdown/
