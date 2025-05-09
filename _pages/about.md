@@ -1,113 +1,158 @@
 ---
 permalink: /
-title: "个人主页"
+title: "Personal Homepage" # Translated title
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-
-欢迎访问我的主页！我是电子科技大学电子科学与技术专业的研究生，目前师从毕磊教授，主要从事硅光器件设计与集成光子学研究。借助林为干科研重点班、栋梁计划产业人才培养计划的锻炼，我致力于推动光子集成电路（PIC）的前沿技术发展，探索高效率、低功耗的光电子器件解决方案。
-
----
-
-## 关于我
-
-我在电子科技大学完成了电子科学与技术本科（GPA：3.82/4.0），并通过多项跨学科项目积累了丰富的科研经验。现阶段，我专注于硅光器件设计与集成光子学领域，结合先进的仿真软件、设计工具和纳米制造工艺，从器件仿真、结构优化到工艺验证全面开展研究。我的工作得到毕磊教授的精心指导，同时也得益于学校提供的重点培养平台，为我在科研创新和实践应用中提供了坚实支撑。
+Welcome to my homepage! I am an MPhil student in Electronic Science and Technology at the University of Electronic Science and Technology of China (UESTC), currently supervised by Professor Lei Bi. My primary focus is on Silicon Photonics Device Design and Integrated Photonics Research. Leveraging the training from programs like the Lin Weigan Key Research Class and the Dongliang Program for Industry Talent Cultivation, I am committed to advancing the frontier technologies of Photonic Integrated Circuits (PICs) and exploring solutions for high-efficiency, low-power optoelectronic devices.
 
 ---
 
-## 研究兴趣
+## About Me
 
-- **集成光子学**  
-  研究硅基、SiN平台上各类波导器件的设计、建模与性能优化，涵盖模式分析、色散控制、损耗机制及偏振管理。致力于结合理论与仿真实现高性能、可制造性的光子器件设计。
-
-- **波导模式控制**  
-  研究特殊截面与周期性结构在波导中的电磁模式调控能力，实现特定电场模式与方向的针对性设计，服务于功能型器件的光场调控。
-
-- **磁光非互易光子学**  
-  研究磁光效应在集成光子平台中的应用，聚焦磁光材料与硅光器件的融合设计，推动磁光隔离器、非互易器件等功能模块在片上系统中的实现与优化。
+I completed my Bachelor's degree in Electronic Science and Technology at UESTC (GPA: 3.82/4.0) and gained extensive research experience through various interdisciplinary projects. Currently, I specialize in the field of Silicon Photonics Device Design and Integrated Photonics, conducting comprehensive research from device simulation, structure optimization to process validation, in conjunction with advanced simulation software, design tools, and nanofabrication processes. My work is meticulously guided by Professor Lei Bi, and also benefits from the key cultivation platforms provided by the university, offering strong support for my innovation in research and practical applications.
 
 ---
 
-## 核心技能
+## Education Background
 
-### 硅光器件设计与建模
-- **硅光器件设计**：精通硅光平台下的波导器件设计与分析，包括分束器、调制器、滤波器、环形器、耦合器等。系统掌握单模/多模设计准则、相位匹配条件与偏振控制方法（如偏振分束器设计）。
-- **模式理论分析**：擅长基于模式理论（模式求解、有效折射率法、横向限制条件）进行硅光波导结构建模与光场分布分析（TE/TM 模式）。
-- **色散与损耗优化**：深入理解波导色散（材料/结构色散）及各类损耗机制（传输、弯曲、耦合损耗），可针对性优化器件性能。
-- **特殊模式定制**：擅长结合理论设计特殊截面结构与周期性结构，实现特殊模式，有针对性的设计电场模式和方向。
+### University of Electronic Science and Technology of China, UESTC
 
-### 电磁仿真与多物理场耦合分析
-- **熟练掌握Lumerical**：熟练使用 Lumerical 完成硅光器件结构设计与性能优化，支持从初步建模到参数提取全过程。
-- **熟练掌握COMSOL**：熟悉多物理场仿真（热光、电光、磁光效应），可在 COMSOL 中实现温度场-光场、电场-光场的耦合仿真分析。
-- **设计自动化**：辅助脚本编程（Python/MATLAB），可进行结构快速迭代与优化。
+* **MPhil in Electronic Science and Technology (A+)** Expected June 2027
+  Research Direction: Silicon Photonics Device Design and Integrated Photonics
 
-### 微纳加工工艺理解
-- **完整工艺流程**：熟悉硅基工艺流程，具备从图形化（紫外光刻/电子束光刻）到刻蚀（干法/湿法）与薄膜沉积（PECVD、溅射等）完整工艺链知识。
-- **加工影响与综合设计**：了解实际加工对硅光器件性能（如波导损耗、模式耦合效率等）的影响，具备理论-仿真-工艺三位一体的设计思维。
-
-### 磁光器件与功能器件拓展
-- 掌握磁光效应（Faraday 旋转、磁光克尔效应）理论，具备在硅基平台上集成磁光材料的设计能力。
-- 有磁光隔离器、磁场传感器等功能型器件的建模与优化经验。
+* **Bachelor of Engineering in Electronic Science and Technology (A+)** 2024
+  GPA: 3.82/4.0
+  Honors Bachelor's Degree (TOP 2), Excellent Graduate
 
 ---
 
+## Research Interests
 
+- **Integrated Photonics**
 
-## 获奖与成果
+  Research on the design, modeling, and performance optimization of various waveguide devices on silicon and SiN platforms, covering mode analysis, dispersion control, loss mechanisms, and polarization management. Dedicated to achieving high-performance, manufacturable photonic device designs through a combination of theory and simulation.
 
-### 特别荣誉
-- 2024 电子科技大学荣誉学士（**学院本届仅2人**）
-- 2024 电子科技大学优秀毕业生  
-- 2024 电子科技大学荣誉研究证书
+- **Waveguide Mode Control**
 
-### 国际奖项
-- 2021 国际基因工程机器设计大赛国际金奖  
-- 2021 IEEEXtreme 极限编程大赛全球前 5%  
+  Research on the capability of special cross-sections and periodic structures in controlling electromagnetic modes in waveguides, aiming to achieve targeted design of specific electric field modes and directions, serving the light field control of functional devices.
 
-### 其他奖项
-- 2024 年度学院科创竞赛电子之星荣誉
-- 2023 栋梁计划挑战性任务II一等奖
-- 2023 栋梁计划挑战性任务III一等奖
-- 2023 电子科技大学新工科教育课程学习最佳作品一等奖      
-- 2022 栋梁计划挑战性任务I最佳团队
-- 2021 中美青年创客大赛省级二等奖
-- 2020 全国大学生生物医学工程创新设计竞赛校级三等奖 
+- **Magneto-Optic Nonreciprocal Photonics**
+
+  Research on the application of the magneto-optic effect in integrated photonics platforms, focusing on the integrated design of magneto-optic materials and silicon photonic devices, promoting the realization and optimization of functional modules such as magneto-optic isolators and nonreciprocal devices in on-chip systems.
 
 ---
 
-## 科研与项目经历
+## Research Experience
 
-### 光束合成与相控技术研究  
-*项目周期：2022年3月至2022年11月*  
-在国家重点实验室团队的支持下，我参与了基于拓扑保护的光束合成技术（TEBC）项目。该项目采用 YIG 光子晶体器件，有效缩小了器件尺寸并降低了设计复杂度，在 9.1–9.3 GHz 频段内成功实现了 3×1 Y 型合束器的高效仿真与测试。项目中，我主要负责器件几何结构的加工与实验验证。相关成果发表在Experimental Realization of Highly Efficient Beam Combination and Steering via Topological Multimode，Laser & Photonics Reviews。
+### National Engineering Research Center for Electromagnetic Radiation Control Materials (State Key Laboratory), Chengdu, China
+Polarization-Independent Magneto-Optic Waveguide Based on Vortex Propagation
 
-### 跨学科创新项目  
-本科期间，我参与了多个跨学科项目，例如：
+*Project Duration: Sep 2024 - Present*
 
-- **基于神经网络的墨点识别与脱除建模**  
-  自主构建数据集，采用 ResNet 网络实现复杂环境下的墨点识别，为机械臂控制提供精准技术支持。
+- Designed periodic waveguide structures to excite vortex-like electric field resonance.
+- Solved the polarization sensitivity issue by achieving effective magneto-optic interaction between TE/TM modes.
+- Introduced the concept of **vortex resonators** to realize on-chip polarization-independent nonreciprocal phase effect.
 
-- **重组脱墨酶与纤维小体系统在废纸再生中的应用**  
-  利用蛋白质结构预测和分子对接技术，探索废纸再生的新型环保工艺。获得中国发明专利《基于生物酶脱墨的整纸脱墨方法及装置》。  
-  [具体工作及项目详情请点击这里](https://2021.igem.org/Team:UESTC-China)
+### Topological Multimode Integration and Control
+
+*Project Duration: Mar 2023 - Nov 2023*
+
+- Realized stable beam combination using **topological multimodes** in photonic crystals.
+- Solved scattering loss issues by exciting with power orthogonal modes.
+- Achieved 93% combination efficiency and dynamic control of high-power multi-channel systems.
+
+### Broadband Magneto-Optic Isolator and Circulator on Si₃N₄
+
+*Project Duration: Mar 2022 - Nov 2022*
+
+- Designed a **Mach-Zehnder Interferometer** with scattering cavities to achieve balanced phase shift.
+- Achieved broadband nonreciprocal working characteristics by manipulating waveguide dispersion to break zero limit.
+- Achieved 28 dB isolation, 29–90 nm bandwidth, and <3 dB loss, supporting scalable wavelength division multiplexing, LiDAR, and data communication applications.
+
+---
+## Core Skills
+
+### Silicon Photonics Device Design and Modeling
+- **Silicon Photonics Device Design**: Proficient in the design and analysis of waveguide devices on the silicon photonics platform, including splitters, modulators, filters, circulators, couplers, etc. Systematically masters single-mode/multimode design principles, phase matching conditions, and polarization control methods (e.g., polarization beam splitter design).
+- **Mode Theory Analysis**: Skilled in performing silicon photonic waveguide structure modeling and light field distribution analysis (TE/TM modes) based on mode theory (mode solving, effective index method, transverse confinement conditions).
+- **Dispersion and Loss Optimization**: Deep understanding of waveguide dispersion (material/structure dispersion) and various loss mechanisms (transmission, bending, coupling loss), capable of targeted optimization of device performance.
+- **Special Mode Customization**: Skilled in combining theoretical design with special cross-section structures and periodic structures to realize specific modes, capable of targeted design of electric field modes and directions.
+
+### Electromagnetic Simulation and Multi-Physics Coupling Analysis
+- **Proficient in Lumerical**: Proficiently use Lumerical to complete silicon photonic device structure design and performance optimization, supporting the entire process from initial modeling to parameter extraction.
+- **Proficient in COMSOL**: Familiar with multi-physics simulation (thermo-optic, electro-optic, magneto-optic effects), capable of realizing coupled simulation analysis of temperature field-optical field, electric field-optical field in COMSOL.
+- **Design Automation**: Assisted scripting (Python/MATLAB) for rapid structure iteration and optimization.
+
+### Understanding of Micro/Nanofabrication Processes
+- **Complete Process Flow**: Familiar with the silicon-based process flow, possessing knowledge of the complete process chain from patterning (UV lithography/electron beam lithography) to etching (dry/wet etching) and thin film deposition (PECVD, sputtering, etc.).
+- **Fabrication Impact and Integrated Design**: Understand the impact of actual fabrication on the performance of silicon photonic devices (such as waveguide loss, mode coupling efficiency, etc.), possessing a theoretical-simulation-fabrication integrated design mindset.
+
+### Magneto-Optic Devices and Functional Device Extension
+- Masters the theory of magneto-optic effects (Faraday rotation, magneto-optic Kerr effect), possessing design capabilities for integrating magneto-optic materials on silicon-based platforms.
+- Has modeling and optimization experience for functional devices such as magneto-optic isolators and magnetic field sensors.
 
 ---
 
-## 学术与社会活动
+## Publications
 
-- **IEEE 分会成员**  
-  积极参与电子科技大学 IEEE 分会活动，与国内外学者进行学术交流，紧跟行业前沿动态。
-
-- **重点培养计划**  
-  作为林为干科研重点班、栋梁计划产业人才培养计划的成员，我不断拓宽学术视野，并积极参与跨学科协作项目，为未来科技创新奠定坚实基础。
+Jing Y, Yang Y, **Long W**, Zhang T, Wu D, Wang J, Xiong Z, Chen N, Wang M, Chan CT, Yu Y, Bi L, Chen Y. Experimental Realization of Highly Efficient Beam Combination and Steering via Topological Multimode, **Laser & Photonics Reviews** (2025).
 
 ---
 
+## Awards and Achievements
 
-## 联系我
+### Special Honors
+- 2024 UESTC Honors Bachelor's Degree (**Top 2 in the Department this year**)
+- 2024 UESTC Excellent Graduate
+- 2024 UESTC Honors Research Certificate
 
-- **邮箱**：[longwh2003@gmail.com](mailto:longwh2003@gmail.com)  
-- **GitHub**：[https://github.com/LongWeihan](https://github.com/LongWeihan)
+### International Awards
+- 2021 International Genetically Engineered Machine (iGEM) Competition International Gold Medal
+- 2021 IEEEXtreme Programming Competition Global Top 5%
+
+### Other Awards
+- 2024 Departmental Science and Technology Innovation Competition 'Electronic Star' Honor
+- 2023 Dongliang Program Challenge Task II First Prize
+- 2023 Dongliang Program Challenge Task III First Prize
+- 2023 UESTC New Engineering Education Course Learning Best Work First Prize
+- 2022 Dongliang Program Challenge Task I Best Team
+- 2021 China-U.S. Young Maker Competition Provincial Second Prize
+- 2020 National University Student Biomedical Engineering Innovation Design Competition University Level Third Prize
+
+---
+
+## Interdisciplinary Innovation Projects
+
+During my undergraduate studies, I took courses in Artificial Intelligence and Biology and participated in several interdisciplinary projects, such as:
+
+**Neural Network-Based Modeling for Ink Dot Recognition and Removal**
+
+  Independently built a dataset and used ResNet network to achieve ink dot recognition in complex environments, providing precise technical support for robotic arm control.
+
+**Application of Recombinant Deinking Enzymes and Cellulosome System in Waste Paper Recycling**
+
+  Explored new environmentally friendly processes for waste paper recycling using protein structure prediction and molecular docking techniques. Obtained Chinese Invention Patent "Method and Device for Deinking Whole Paper Based on Biological Enzymes".
+  [Click here for details on specific work and project](https://2021.igem.org/Team:UESTC-China)
+
+---
+
+## Academic and Social Activities
+
+- **IEEE Chapter Member**
+
+  Actively participates in UESTC IEEE Chapter activities, engages in academic exchanges with scholars at home and abroad, participates in organizing academic workshops and student outreach programs, and keeps abreast of industry frontiers.
+
+- **Key Cultivation Programs**
+
+  As a member of programs such as the Lin Weigan Key Research Class and the Dongliang Program for Industry Talent Cultivation, I continuously broaden my academic horizons and actively participate in interdisciplinary collaborative projects, laying a solid foundation for future technological innovation.
+
+---
+
+## Contact Me
+
+- **Email**: [longwh2003@gmail.com](mailto:longwh2003@gmail.com)
+- **GitHub**: [https://github.com/LongWeihan](https://github.com/LongWeihan)
