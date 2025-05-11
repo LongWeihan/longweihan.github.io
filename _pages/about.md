@@ -156,5 +156,5 @@ During my undergraduate studies, I took courses in Artificial Intelligence and B
 
 ## Contact Me
 
-- **Email**: [longwh2003@gmail.com](mailto:longwh2003@gmail.com)
+- **Email**: [weihanlong@std.uestc.edu.cn](mailto:weihanlong@std.uestc.edu.cn)
 - **GitHub**: [https://github.com/LongWeihan](https://github.com/LongWeihan)
