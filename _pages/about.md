@@ -51,7 +51,7 @@ I completed my Bachelor's degree in Electronic Science and Technology at UESTC (
 ## Research Experience
 
 ### National Engineering Research Center for Electromagnetic Radiation Control Materials (State Key Laboratory), Chengdu, China
-### Polarization-Independent Magneto-Optic Waveguide Based on Vortex Propagation
+### Polarization-Independent Ultra-Broadband Integrated Magneto-Optical Isolator
 
 *Project Duration: Mar 2025 - Present*
 
