@@ -42,16 +42,24 @@ I completed my Bachelor's degree in Electronic Science and Technology at UESTC (
 
   Research on the capability of special cross-sections and periodic structures in controlling electromagnetic modes in waveguides, aiming to achieve targeted design of specific electric field modes and directions, serving the light field control of functional devices.
 
-- **Magneto-Optic Nonreciprocal Photonics**
+- **Heterogeneous Integrated Photonics**
 
-  Research on the application of the magneto-optic effect in integrated photonics platforms, focusing on the integrated design of magneto-optic materials and silicon photonic devices, promoting the realization and optimization of functional modules such as magneto-optic isolators and nonreciprocal devices in on-chip systems.
+  Research on integration methods, device design, and fabrication processes for combining various functional materials with mainstream photonic platforms such as silicon-based and SiN. Focused on exploring how to merge the advantageous properties of different materials onto a single chip through heterogeneous integration techniques, with the aim of developing novel multifunctional integrated photonic devices.
 
 ---
 
 ## Research Experience
 
 ### National Engineering Research Center for Electromagnetic Radiation Control Materials (State Key Laboratory), Chengdu, China
-Polarization-Independent Magneto-Optic Waveguide Based on Vortex Propagation
+### Polarization-Independent Magneto-Optic Waveguide Based on Vortex Propagation
+
+*Project Duration: Mar 2025 - Present*
+
+- **Simultaneously addressed major challenges in integrated isolators: polarization dependence and bandwidth limitation.**
+- Solved the polarization sensitivity issue by achieving effective magneto-optic interaction between TE/TM modes.
+- For TE and TM modes, respectively achieved 20 dB theoretical isolation bandwidths of 239.88 nm and 295.83 nm.
+  
+### Polarization-Independent Magneto-Optic Waveguide Based on Vortex Propagation
 
 *Project Duration: Sep 2024 - Present*
 
