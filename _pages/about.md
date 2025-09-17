@@ -19,16 +19,24 @@ I completed my Bachelor's degree in Electronic Science and Technology at UESTC (
 
 ## Education Background
 
+### University of Cambridge
+*   **China Scholarship Council (CSC) Sponsored Joint M.Phil. Student** Expected 2026 - 2027
+    
+    Research Direction: Silicon Photonics Device Design and Integrated Photonics
+
 ### University of Electronic Science and Technology of China, UESTC
 
-* **MPhil in Electronic Science and Technology (A+)** Expected June 2027
-  
-  Research Direction: Silicon Photonics Device Design and Integrated Photonics
+*   **M.Phil. in Electronic Science and Technology (A+)** Expected June 2027
+    
+    GPA: 3.86/4.0
+    
+    Research Direction: Silicon Photonics Device Design and Integrated Photonics
 
-* **Bachelor of Engineering in Electronic Science and Technology (A+)** 2024
-  
-  GPA: 3.82/4.0
-  Honors Bachelor's Degree (TOP 2), Excellent Graduate
+*   **Bachelor of Engineering in Electronic Science and Technology (A+)** 2024
+    
+    GPA: 3.82/4.0
+    
+    Honors: Honorary Bachelor's Degree (Top 2%), Outstanding Graduate
 
 ---
 
