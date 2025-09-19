@@ -23,3 +23,6 @@ main:
     url: /files/longweihan_cv.pdf # <-- 将“你的简历文件名.pdf”替换为你实际的 PDF 文件名
     target: _blank # 让链接在新标签页中打开
   # ============================
+
+  - title: "Blog"
+    url: /Blog/
