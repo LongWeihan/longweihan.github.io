@@ -36,7 +36,8 @@ I completed my Bachelor's degree in Electronic Science and Technology at UESTC (
     
     GPA: 3.82/4.0
     
-    Honors: Honorary Bachelor's Degree (two recipients from the School of Electronic Engineering in the current year), Outstanding Graduate
+    Honors: Honorary Bachelor's Degree (two recipients from the School of Electronic Engineering in the current year)
+    Outstanding Graduate
 
 ---
 
